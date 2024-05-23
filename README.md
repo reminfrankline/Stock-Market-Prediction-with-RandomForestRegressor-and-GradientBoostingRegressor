@@ -36,7 +36,7 @@ Predicting stock market prices is a challenging task that can benefit from machi
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/reminfranklin/Stock-Market-Prediction-with-RandomForestRegressor-and-GradientBoostingRegressor.git
+   git clone https://github.com/reminfrankline/Stock-Market-Prediction-with-RandomForestRegressor-and-GradientBoostingRegressor.git
    ```
 
 2. Install the required dependencies:
